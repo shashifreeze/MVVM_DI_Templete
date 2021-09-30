@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM_DI_Templete</string>
+    <string name="retry">Retry</string>
+    <string name="alert">Alert</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="check_net_con">Check your internet connection</string>
+</resources>
